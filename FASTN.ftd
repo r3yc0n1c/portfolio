@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/images/favicon.ico
+-- fastn.package: r3yc0n1c.github.io/portfolio
+favicon: /-/r3yc0n1c.github.io/portfolio/images/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: r3yc0n1c.github.io/portfolio/FASTN/ds
+-- fastn.auto-import: r3yc0n1c.github.io/portfolio/assets
 -- fastn.auto-import: doc-site
 -- fastn.auto-import: package
 
